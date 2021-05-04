@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Entei",
+      "hp": "115",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/x-y/normal/entei.png",
+        "back": "https://img.pokemondb.net/sprites/black-white/normal/entei.png"
+      },
+      "id": 151
     }
   ]
 }
